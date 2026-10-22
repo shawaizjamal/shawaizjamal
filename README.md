@@ -29,24 +29,37 @@ I am currently developing my skills in:
 
 ## Featured Projects
 
-Featured Projects
-
-Switch2EV
+### Switch2EV
 
 A multi-page web development project focused on electric vehicle adoption, charging information and available incentives.
 
-Built with HTML, CSS and JavaScript
+- Built using HTML, CSS and JavaScript
+- Includes multiple information pages, login functionality and form validation
+- Published online using GitHub Pages
 
-Includes multiple information pages, login functionality and form validation
-
-Published using GitHub Pages
-
-[View Repository](https://github.com/shawaizjamal/switch2ev)
+[View Repository](https://github.com/shawaizjamal/switch2ev)  
 [Live Demo](https://shawaizjamal.github.io/switch2ev/)
 
-More projects coming soon
+---
 
-I am continuing to add selected university and personal projects across cybersecurity, networking, databases, Linux and web technologies.
+### Rideshare Database System
+
+An Oracle SQL relational database project designed to model the core operations of a rideshare platform.
+
+- Designed an 8-entity relational database covering customers, drivers, vehicles, rides, payments, feedback, maintenance and fuel
+- Implemented primary and foreign key relationships
+- Developed complex SQL queries using joins, subqueries, aggregation, `GROUP BY`, `HAVING` and `UNION ALL`
+- Used PL/SQL triggers and a stored procedure for database automation
+- Created an ERD, use-case diagram, relational schema and data dictionary
+- Repository includes anonymised synthetic sample data and query-result evidence
+
+[View Repository](https://github.com/shawaizjamal/rideshare-database-system)
+
+---
+
+### More Projects Coming Soon
+
+I am continuing to document selected university and personal projects across cybersecurity, networking, Linux, system administration and AI-driven security.
 
 ## Research Interests
 
