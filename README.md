@@ -29,16 +29,24 @@ I am currently developing my skills in:
 
 ## Featured Projects
 
-Projects will be added here as I continue building my portfolio.
+Featured Projects
 
-Planned repositories include:
+Switch2EV
 
-- Switch2EV Web Project
-- Rideshare Database System
-- RIP v2 Network Design
-- Linux System Administration Project
-- Cybersecurity Labs
-- Final Year Project
+A multi-page web development project focused on electric vehicle adoption, charging information and available incentives.
+
+Built with HTML, CSS and JavaScript
+
+Includes multiple information pages, login functionality and form validation
+
+Published using GitHub Pages
+
+[View Repository](https://github.com/shawaizjamal/switch2ev)
+[Live Demo](https://shawaizjamal.github.io/switch2ev/)
+
+More projects coming soon
+
+I am continuing to add selected university and personal projects across cybersecurity, networking, databases, Linux and web technologies.
 
 ## Research Interests
 
